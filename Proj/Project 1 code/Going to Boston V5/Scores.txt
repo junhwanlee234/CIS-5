@@ -1,0 +1,12 @@
+Welcome to a game of Going to Boston Dice Game
+Please enter the number of rounds (upto 10 rounds)
+Player 1                                             Player 2
+Numbers on dice(s) = 6 4 1                           Numbers on dice(s) = 6 3 5 
+Largest number : 6                                   Largest number : 6
+Numbers on dice(s) = 6 5                             Numbers on dice(s) = 5 2 
+Largest number : 6                                   Largest number : 5
+Numbers on dice(s) = 3                               Numbers on dice(s) = 1 
+Largest number : 3                                   Largest number : 1
+round sum = 15                                       round sum = 12
+
+Player 1 wins the round
