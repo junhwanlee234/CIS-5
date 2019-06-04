@@ -1,0 +1,2 @@
+Welcome to a game of Going to Boston Dice Game
+Please enter the number of rounds (upto 10 rounds)
